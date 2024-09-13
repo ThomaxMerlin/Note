@@ -17,40 +17,60 @@ Local Storage: Your notes are saved in your browser's local storage, so they per
 
 # Technologies Used
 HTML5: For structuring the page.
+
 CSS3: For styling the app with modern design elements like gradients, rounded corners, and shadows.
+
 JavaScript: For the app's interactivity, including adding, editing, and deleting notes.
+
 LocalStorage: For persisting notes locally in the browser.
+
 Notiflix: A lightweight JavaScript library for showing notification alerts and confirmation popups.
+
 # Installation
 1.Clone the Repository:
+
 git clone https://github.com/ThomaxMerlin/note-taking-app.git
+
 2.Open the app: Simply open the index.html file in any modern browser. No additional setup is required.
+
 # Usage
+
 1.Add a Note:
 
 Type your note into the text area.
+
 Click the "Add Note" button to save your note.
+
 You will see the note appear below, and a success notification will appear.
 
 2.Edit a Note:
 
 Click the "Edit" button on a note to make the content editable.
+
 Modify the note and click "Save" when done.
+
 A success notification will confirm that the note has been saved.
+
 3.Delete a Note:
 
 Click the "Delete" button on a note.
-A confirmation popup will appear asking for confirmation before deleting.
-Upon confirmation, the note will be deleted, and a success notification will appear.
-# Preview
-## Add Note Interface:
 
-## Notes Display:
+A confirmation popup will appear asking for confirmation before deleting.
+
+Upon confirmation, the note will be deleted, and a success notification will appear.
+
+# Preview
+
+# Add Note Interface:
+
+# Notes Display:
 
 # Libraries
+
 Notiflix: A great library for alert boxes, notifications, and confirm dialogs used to provide user feedback in the app.
 
 Link to documentation: https://notiflix.github.io/
 
 # License
+
 This project is licensed under the MIT License.

@@ -4,11 +4,17 @@ A simple, user-friendly web-based note-taking app. This app allows users to add,
 
 # Features
 Add Notes: Write and save notes easily.
+
 Edit Notes: Modify existing notes in real-time.
+
 Delete Notes: Remove notes with a confirmation dialog.
+
 Responsive Design: Looks great on both desktop and mobile devices.
+
 Notifications: Visual alerts for actions like adding, saving, and deleting notes.
+
 Local Storage: Your notes are saved in your browser's local storage, so they persist across page reloads.
+
 # Technologies Used
 HTML5: For structuring the page.
 CSS3: For styling the app with modern design elements like gradients, rounded corners, and shadows.

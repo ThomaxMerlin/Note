@@ -1,5 +1,5 @@
 # Note-Taking Web Application
-##
+
 A simple, user-friendly web-based note-taking app. This app allows users to add, edit, and delete notes, with a sleek design and notification alerts for actions such as adding and deleting notes. The application uses local storage to save notes, so your notes are stored locally on your device and persist even after refreshing the page.
 
 # Features
